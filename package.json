@@ -1,0 +1,19 @@
+{
+  "name": "livestreamclips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.0",
+    "puppeteer": "^9.1.1",
+    "reddit": "^1.2.1",
+    "twitch": "^4.5.5",
+    "twitch-auth": "^4.5.5",
+    "unirest": "^0.6.0"
+  }
+}
